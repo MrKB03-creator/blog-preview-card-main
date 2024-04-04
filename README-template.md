@@ -13,8 +13,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/MrKB03-creator/blog-preview-card-main.git
+- Live Site URL: https://mrkb03-creator.github.io/blog-preview-card-main/
 
 
 ### Built with
