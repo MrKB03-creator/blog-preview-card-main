@@ -68,6 +68,10 @@ body {
     border-radius: 50%;
 }
 
+.avatar-container p {
+    margin-left: 12px;
+}
+
 /*Media Queries*/
 @media screen and (max-width: 450px) {
     .card {
@@ -91,7 +95,7 @@ body {
     font-size: 14px;
     line-height: 150%;
     color: #111111;
-    font-weight: bold;
+    font-weight: 800;
     margin: 0;
 }
 
@@ -107,7 +111,7 @@ body {
     font-size: 24px;
     line-height: 150%;
     color: #111111;
-    font-weight: bold;
+    font-weight: 800;
     margin: 0;
 }
 
